@@ -1,0 +1,729 @@
+# Guía 2
+
+Temática del ejercicio: Coordenadas geográficas, latitud y longitud
+
+Reactivo: 93
+Fuente: Guía compartida por el usuario. El número de guía no se distingue con certeza en el material visible.
+
+Planteamiento del problema:
+La latitud se mide a partir del ______ y su valor máximo corresponde a ______.
+
+Opciones:
+A) ecuador - 90° N y S
+B) ecuador - 90° E y O
+C) ecuador - 180° N y S
+D) meridiano 0° - 90° N y S
+E) meridiano 0° - 180° E y O
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar desde dónde se mide la latitud y cuál es su valor máximo correcto.
+
+Desarrollo y descarte de opciones:
+
+A) ecuador - 90° N y S
+Esta opción dice que la latitud se mide desde el ecuador y que llega hasta 90 grados al norte y 90 grados al sur.
+Sí se relaciona directamente con el tema.
+Podría confundir porque muchos alumnos mezclan latitud con longitud.
+Se conserva porque la latitud siempre se mide desde el ecuador hacia el norte o hacia el sur, y su máximo es 90°.
+
+B) ecuador - 90° E y O
+Esta opción sí empieza con ecuador, pero luego usa E y O, que significan este y oeste.
+Eso ya corresponde a longitud, no a latitud.
+Podría confundir porque conserva la palabra ecuador, que sí está relacionada con latitud.
+Se descarta porque la latitud no se expresa en este y oeste, sino en norte y sur.
+
+C) ecuador - 180° N y S
+Esta opción también parte del ecuador, pero pone 180° como valor máximo.
+Podría confundir porque 180° sí existe en coordenadas geográficas, pero para la longitud.
+Se descarta porque la latitud sólo llega hasta 90° al norte o 90° al sur, no hasta 180°.
+
+D) meridiano 0° - 90° N y S
+Esta opción usa el valor 90° N y S, que sí pertenece a latitud.
+Podría confundir porque mezcla un dato correcto con un punto de partida incorrecto.
+Se descarta porque el meridiano 0° sirve para medir longitud, no latitud.
+
+E) meridiano 0° - 180° E y O
+Esta opción describe realmente a la longitud.
+Sí se relaciona con coordenadas geográficas, pero no responde lo que pregunta el reactivo sobre latitud.
+Podría confundir porque parece muy técnica y completa.
+Se descarta porque la latitud no se mide desde el meridiano 0°, sino desde el ecuador.
+
+Opción correcta:
+A) ecuador - 90° N y S
+
+Argumento:
+La latitud indica qué tan al norte o al sur se encuentra un lugar respecto del ecuador. Por eso su punto de partida es el ecuador, que corresponde a 0°. A partir de ahí aumenta hacia el norte o hacia el sur hasta llegar a 90°, que corresponde a los polos. En cambio, la longitud se mide desde el meridiano 0° y llega hasta 180° hacia el este u oeste.
+
+Pista:
+Si ves norte y sur, piensa en latitud. Si ves este y oeste, piensa en longitud.
+
+---
+---
+
+Temática del ejercicio: Movimiento de traslación de la Tierra
+
+Reactivo: 94
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+Principal consecuencia del movimiento de traslación de la Tierra:
+
+Opciones:
+A) Las estaciones del año.
+B) La desviación de los cuerpos al caer.
+C) Los días y las noches.
+D) La diferencia horaria.
+E) La cercanía entre los planetas.
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué fenómeno sí es consecuencia del movimiento de traslación de la Tierra.
+
+Desarrollo y descarte de opciones:
+
+A) Las estaciones del año.
+Esta opción se refiere a los cambios de primavera, verano, otoño e invierno.
+Sí se relaciona directamente con la traslación.
+Podría confundir porque algunos alumnos creen que las estaciones ocurren solo por la distancia al Sol, pero en realidad interviene la traslación junto con la inclinación del eje terrestre.
+Se conserva porque es la consecuencia principal del movimiento de traslación.
+
+B) La desviación de los cuerpos al caer.
+Esta opción se relaciona con efectos derivados de la rotación terrestre.
+Sí toca movimientos de la Tierra, pero no corresponde a la traslación.
+Podría confundir porque también habla de un movimiento del planeta.
+Se descarta porque no es la consecuencia principal de dar la vuelta alrededor del Sol.
+
+C) Los días y las noches.
+Esta opción habla del cambio entre iluminación y oscuridad.
+Sí se relaciona con movimientos de la Tierra, pero corresponde a la rotación.
+Podría confundir porque es una consecuencia muy conocida de un movimiento terrestre.
+Se descarta porque los días y las noches ocurren porque la Tierra gira sobre su propio eje.
+
+D) La diferencia horaria.
+Esta opción también se debe a la rotación de la Tierra.
+Sí está vinculada con el movimiento terrestre, pero no con la traslación.
+Podría confundir porque también tiene que ver con el tiempo.
+Se descarta porque la diferencia de horarios existe por el giro terrestre y la posición respecto al Sol en cada meridiano.
+
+E) La cercanía entre los planetas.
+Esta opción no expresa una consecuencia geográfica o astronómica directa de la traslación terrestre.
+Podría confundir porque menciona planetas y movimiento en el espacio.
+Se descarta porque la traslación de la Tierra no produce como consecuencia principal que los planetas se acerquen entre sí.
+
+Opción correcta:
+A) Las estaciones del año.
+
+Argumento:
+La traslación es el movimiento que hace la Tierra alrededor del Sol. Al combinarse con la inclinación del eje terrestre, cambia la forma en que llegan los rayos solares a distintas partes del planeta durante el año. Por eso se producen las estaciones. En cambio, los días y las noches, así como la diferencia horaria, se explican por la rotación.
+
+Pista:
+Si la opción habla de algo que cambia a lo largo del año, va por buen camino. Si habla de algo que cambia en un solo día, entonces piensa en rotación.
+
+---
+---
+
+Temática del ejercicio: Placas tectónicas y sismicidad en México
+
+Reactivo: 95
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+El choque de la Placa de Cocos y la Norteamericana produce sismos que afectan principalmente a
+
+Opciones:
+A) Coahuila, Nuevo León y Tamaulipas.
+B) Guanajuato, Aguascalientes y San Luis Potosí.
+C) Michoacán, Guerrero y Oaxaca.
+D) Sonora, Baja California y Chihuahua.
+E) Veracruz, Tabasco y Campeche.
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué zona de México es la más afectada por el choque entre la Placa de Cocos y la Placa Norteamericana.
+
+Desarrollo y descarte de opciones:
+
+A) Coahuila, Nuevo León y Tamaulipas.
+Estos estados están en el norte y noreste de México.
+Sí son parte del territorio nacional, pero no corresponden a la zona principal donde choca la Placa de Cocos.
+Podría confundir porque Tamaulipas tiene costa, pero no está frente a la zona principal de subducción de la Placa de Cocos.
+Se descarta porque esa región no es la más afectada por ese contacto tectónico.
+
+B) Guanajuato, Aguascalientes y San Luis Potosí.
+Estos estados están en la parte centro-norte del país.
+Sí pueden sentir algunos sismos, pero no se ubican en la franja más directamente relacionada con el choque de la Placa de Cocos.
+Podría confundir porque están más cerca del centro del país, pero no son la zona principal de impacto.
+Se descarta porque no están sobre la costa del Pacífico sur, donde se concentra ese riesgo.
+
+C) Michoacán, Guerrero y Oaxaca.
+Estos estados están en la costa del Pacífico y en el sur de México.
+Sí se relacionan directamente con el choque entre la Placa de Cocos y la Norteamericana.
+Podría confundir porque también hay sismos en otros estados, pero aquí se pregunta por los principalmente afectados.
+Se conserva porque esa franja del Pacífico sur es una de las más sísmicas del país por la subducción de la Placa de Cocos.
+
+D) Sonora, Baja California y Chihuahua.
+Estos estados están en el norte y noroeste.
+Baja California sí tiene actividad sísmica, pero más relacionada con otras fallas y placas, no principalmente con el choque de la Placa de Cocos con la Norteamericana.
+Podría confundir porque Baja California es muy sísmica.
+Se descarta porque el reactivo pregunta por ese choque tectónico específico.
+
+E) Veracruz, Tabasco y Campeche.
+Estos estados están en el Golfo de México y sureste.
+No corresponden a la zona principal donde la Placa de Cocos se mete debajo de la Norteamericana.
+Podría confundir porque están en el sur del país, pero no en la franja del Pacífico donde ocurre ese proceso.
+Se descarta porque no son los más afectados por ese contacto de placas.
+
+Opción correcta:
+C) Michoacán, Guerrero y Oaxaca.
+
+Argumento:
+La Placa de Cocos se introduce debajo de la Placa Norteamericana frente a la costa del Pacífico mexicano. Ese proceso se llama subducción y genera mucha actividad sísmica. Por eso, los estados más afectados son sobre todo Michoacán, Guerrero y Oaxaca, que se ubican justo en esa zona de contacto tectónico.
+
+Pista:
+Busca los estados del Pacífico sur de México, porque ahí está una de las zonas sísmicas más activas por el choque de placas.
+
+---
+---
+
+Temática del ejercicio: Placas tectónicas y subducción
+
+Reactivo: 96
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+El límite donde una placa tectónica se introduce debajo de otra se denomina
+
+Opciones:
+A) dorsal
+B) falla
+C) plegamiento
+D) subducción
+E) expansión
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar el nombre correcto del proceso en el que una placa tectónica se mete por debajo de otra.
+
+Desarrollo y descarte de opciones:
+
+A) dorsal
+Una dorsal es una elevación submarina donde suele separarse el material de la corteza.
+Sí se relaciona con tectónica de placas.
+Podría confundir porque también es un término geológico importante.
+Se descarta porque dorsal se asocia más con separación de placas, no con una placa que se hunde debajo de otra.
+
+B) falla
+Una falla es una fractura de la corteza terrestre donde hay desplazamiento de bloques.
+Sí se relaciona con sismos y tectónica.
+Podría confundir porque en las fallas también hay movimiento.
+Se descarta porque el reactivo no pregunta por una fractura, sino por el proceso de introducción de una placa debajo de otra.
+
+C) plegamiento
+El plegamiento es la deformación de capas rocosas que se doblan.
+Sí pertenece al tema geológico.
+Podría confundir porque ocurre por presiones en la corteza.
+Se descarta porque plegamiento no nombra el límite tectónico donde una placa se mete bajo otra.
+
+D) subducción
+La subducción es el proceso en el que una placa tectónica se introduce debajo de otra.
+Sí corresponde exactamente a lo que dice el enunciado.
+No se descarta porque coincide de manera directa con la definición del reactivo.
+Se conserva porque es el término correcto.
+
+E) expansión
+La expansión se relaciona con separación o aumento de superficie, como en el fondo oceánico.
+Sí se vincula con tectónica.
+Podría confundir porque también describe movimiento de placas.
+Se descarta porque expansión es lo contrario de un hundimiento debajo de otra placa.
+
+Opción correcta:
+D) subducción
+
+Argumento:
+Cuando dos placas tectónicas chocan, en algunos casos una se hunde por debajo de la otra. A ese proceso se le llama subducción. Este fenómeno explica buena parte de la sismicidad y del vulcanismo en zonas como la costa del Pacífico mexicano.
+
+Pista:
+Busca la opción que nombre el hundimiento de una placa bajo otra, no una fractura ni una separación.
+
+---
+---
+
+Temática del ejercicio: Vulcanismo y manifestaciones secundarias
+
+Reactivo: 97
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+Son manifestaciones secundarias del vulcanismo:
+
+Opciones:
+A) Cenizas y granizo.
+B) Granizo y aguas termales.
+C) Aguas termales y géiseres.
+D) Géiseres y calizas.
+E) Calizas y arena.
+
+Qué pide resolver el ejercicio:
+Aquí hay que reconocer cuáles fenómenos sí son manifestaciones secundarias del vulcanismo.
+
+Desarrollo y descarte de opciones:
+
+A) Cenizas y granizo.
+Las cenizas sí se relacionan con actividad volcánica, pero son una manifestación directa de una erupción, no secundaria.
+El granizo es un fenómeno atmosférico, no volcánico.
+Podría confundir porque la ceniza sí suena a volcán.
+Se descarta porque mezcla un elemento de erupción directa con otro que no pertenece al vulcanismo.
+
+B) Granizo y aguas termales.
+El granizo no tiene relación con el vulcanismo, sino con procesos meteorológicos.
+Las aguas termales sí pueden originarse en zonas volcánicas.
+Podría confundir porque una parte sí es correcta.
+Se descarta porque la opción debe tener dos manifestaciones secundarias correctas.
+
+C) Aguas termales y géiseres.
+Las aguas termales son salidas de agua calentada por el calor interno de la Tierra.
+Los géiseres son expulsiones periódicas de agua caliente y vapor.
+Sí se relacionan directamente con el calor subterráneo de zonas volcánicas.
+Se conserva porque ambas son manifestaciones secundarias del vulcanismo.
+
+D) Géiseres y calizas.
+Los géiseres sí son manifestaciones secundarias del vulcanismo.
+Las calizas son rocas sedimentarias, no una manifestación volcánica.
+Podría confundir porque contiene un elemento correcto.
+Se descarta porque calizas no corresponde al proceso volcánico secundario.
+
+E) Calizas y arena.
+Ni las calizas ni la arena son manifestaciones secundarias del vulcanismo.
+Podría confundir porque son materiales naturales, pero no responden al concepto del reactivo.
+Se descarta por completo.
+
+Opción correcta:
+C) Aguas termales y géiseres.
+
+Argumento:
+Las manifestaciones secundarias del vulcanismo no son la erupción principal, sino efectos derivados del calor interno que sigue actuando en el subsuelo. Entre las más conocidas están las aguas termales y los géiseres, porque ambos fenómenos aparecen por el calentamiento del agua subterránea en regiones de actividad volcánica.
+
+Pista:
+Busca fenómenos que ocurren por el calor subterráneo en zonas volcánicas, aunque no haya erupción en ese momento.
+
+---
+---
+
+Temática del ejercicio: Hidrocarburos en México y contaminación petrolera
+
+Reactivo: 98
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+La contaminación petrolera causa mayores problemas ecológicos en los puertos de
+
+Opciones:
+A) Acapulco y Coatzacoalcos.
+B) Coatzacoalcos y Veracruz.
+C) Veracruz y Mazatlán.
+D) Mazatlán y Guaymas.
+E) Guaymas y Acapulco.
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué puertos están más relacionados con actividad petrolera y, por eso, con mayores problemas ecológicos por contaminación petrolera.
+
+Desarrollo y descarte de opciones:
+
+A) Acapulco y Coatzacoalcos.
+Coatzacoalcos sí es un puerto muy relacionado con la actividad petrolera.
+Acapulco es un puerto importante, pero se asocia más con turismo y comercio, no como uno de los principales puertos petroleros.
+Podría confundir porque una mitad de la opción sí va por buen camino.
+Se descarta porque los dos puertos deben estar claramente vinculados a contaminación petrolera.
+
+B) Coatzacoalcos y Veracruz.
+Coatzacoalcos es un puerto muy ligado a la industria petrolera y petroquímica.
+Veracruz también es un puerto importante del Golfo de México y está relacionado con transporte y manejo de hidrocarburos.
+Sí se relaciona con el tema del reactivo.
+Se conserva porque ambos puertos están en una zona donde la actividad petrolera ha tenido fuerte presencia.
+
+C) Veracruz y Mazatlán.
+Veracruz sí puede relacionarse con actividad petrolera.
+Mazatlán se asocia más con pesca, turismo y comercio marítimo del Pacífico.
+Podría confundir porque incluye un puerto correcto.
+Se descarta porque Mazatlán no es de los principales puertos señalados en este tema.
+
+D) Mazatlán y Guaymas.
+Ambos son puertos del Pacífico.
+Sí tienen actividad marítima, pero no son los más representativos en contaminación petrolera dentro del enfoque del reactivo.
+Podría confundir porque son puertos importantes.
+Se descarta porque el problema apunta más a puertos petroleros del Golfo de México.
+
+E) Guaymas y Acapulco.
+Son puertos importantes, pero no se identifican como los principales en este tema de contaminación petrolera.
+Podría confundir porque ambos están en la costa y tienen actividad marítima.
+Se descarta porque no son los puertos más relacionados con hidrocarburos en este contexto.
+
+Opción correcta:
+B) Coatzacoalcos y Veracruz.
+
+Argumento:
+La contaminación petrolera afecta más en puertos ligados al manejo, transporte y actividad de hidrocarburos. Coatzacoalcos y Veracruz, ubicados en el Golfo de México, se relacionan con ese tipo de actividad económica. Por eso son la opción que mejor responde el reactivo.
+
+Pista:
+Piensa en los puertos del Golfo de México que se relacionan con petróleo, no en los que destacan más por turismo o pesca.
+
+---
+---
+
+Temática del ejercicio: Riesgo sísmico en México
+
+Reactivo: 99
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+Es el estado ubicado en la zona asísmica de México:
+
+Opciones:
+A) Oaxaca
+B) Chiapas
+C) Michoacán
+D) Puebla
+E) Tamaulipas
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar cuál de los estados mencionados se localiza en una zona de muy baja sismicidad o zona asísmica dentro del territorio mexicano.
+
+Desarrollo y descarte de opciones:
+
+A) Oaxaca
+Oaxaca está en el sur del país, sobre una zona muy relacionada con el choque de placas.
+Sí se relaciona con sismicidad, pero como una zona de alta actividad.
+Podría confundir porque algunos piensan que todos los estados tienen el mismo riesgo sísmico.
+Se descarta porque Oaxaca es uno de los estados más sísmicos de México.
+
+B) Chiapas
+Chiapas también se ubica en el sur y tiene fuerte actividad sísmica.
+Sí pertenece al tema, pero no a una zona asísmica.
+Podría confundir porque está lejos del centro del país, pero eso no significa que tenga pocos sismos.
+Se descarta porque Chiapas presenta frecuente actividad sísmica.
+
+C) Michoacán
+Michoacán se localiza en la costa del Pacífico, en una zona muy afectada por el movimiento de placas.
+Sí se relaciona directamente con sismos.
+Podría confundir porque no todo el estado tiembla con la misma intensidad, pero en general es una zona sísmica.
+Se descarta porque Michoacán no es una zona asísmica.
+
+D) Puebla
+Puebla no es de los estados más sísmicos como Oaxaca o Chiapas, pero sí puede verse afectado por sismos.
+Podría confundir porque está tierra adentro y no en la costa.
+Se descarta porque no se considera parte de la zona asísmica de México.
+
+E) Tamaulipas
+Tamaulipas se ubica en el noreste del país, lejos de la principal zona de subducción del Pacífico.
+Sí corresponde con una región de muy baja sismicidad.
+Podría confundir porque tiene costa, pero no está frente a la zona principal donde chocan las placas que generan la mayor parte de los sismos en México.
+Se conserva porque es el estado que mejor representa la zona asísmica en este reactivo.
+
+Opción correcta:
+E) Tamaulipas
+
+Argumento:
+Las zonas con mayor sismicidad en México se concentran sobre todo en la costa del Pacífico y el sur del país, donde interactúan placas tectónicas. Oaxaca, Chiapas y Michoacán están en esa franja sísmica, y Puebla también puede verse afectado. En cambio, Tamaulipas, en el noreste, se ubica en una región de mucho menor actividad sísmica, por eso se considera la respuesta correcta.
+
+Pista:
+Busca el estado más alejado de la costa del Pacífico sur y de la zona donde se hunde la Placa de Cocos.
+
+---
+---
+
+Temática del ejercicio: Riesgo volcánico en México
+
+Reactivo: 100
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+En México, los riesgos por actividad volcánica pueden presentarse en
+
+Opciones:
+A) Aguascalientes
+B) Durango
+C) Querétaro
+D) Colima
+E) Zacatecas
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar en qué estado de México existe un riesgo claro por actividad volcánica.
+
+Desarrollo y descarte de opciones:
+
+A) Aguascalientes
+Aguascalientes no destaca por actividad volcánica actual dentro del país.
+Podría confundir porque está en una zona centro-norte, pero eso no significa que tenga volcanes activos importantes.
+Se descarta porque no es un estado reconocido por riesgo volcánico en este tipo de reactivos.
+
+B) Durango
+Durango tiene relieve variado, pero no se identifica como uno de los estados con riesgo volcánico principal en México.
+Podría confundir porque tiene zonas montañosas.
+Se descarta porque el reactivo busca un estado directamente asociado con actividad volcánica.
+
+C) Querétaro
+Querétaro no se reconoce como uno de los principales estados con riesgo volcánico activo.
+Podría confundir porque está cerca de la parte central del país, donde hay volcanes en otras entidades.
+Se descarta porque el riesgo volcánico importante no se ubica ahí en este contexto.
+
+D) Colima
+Colima sí está claramente asociado con riesgo volcánico.
+En este estado se localiza el Volcán de Colima, también llamado Volcán de Fuego, que es uno de los más conocidos por su actividad.
+Se conserva porque corresponde de forma directa al tema del reactivo.
+
+E) Zacatecas
+Zacatecas no se identifica como una entidad con riesgo volcánico principal.
+Podría confundir porque está en una zona con relieve alto.
+Se descarta porque no destaca por actividad volcánica activa en este tipo de pregunta.
+
+Opción correcta:
+D) Colima
+
+Argumento:
+Colima es un estado mexicano directamente relacionado con riesgo volcánico porque ahí se ubica uno de los volcanes más conocidos y activos del país. Por eso, entre las opciones, es la entidad que mejor representa una zona donde pueden presentarse riesgos por actividad volcánica.
+
+Pista:
+Piensa en el estado que se asocia de inmediato con un volcán famoso y activo en México.
+
+---
+---
+
+Temática del ejercicio: Actividades económicas, ganadería bovina en México
+
+Reactivo: 101
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+Estado de la República Mexicana importante en la cría de ganado bovino:
+
+Opciones:
+A) Baja California
+B) Nuevo León
+C) Sonora
+D) Aguascalientes
+E) Guanajuato
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué estado destaca más por la cría de ganado bovino.
+
+Desarrollo y descarte de opciones:
+
+A) Baja California
+Baja California sí tiene actividad ganadera, pero no es la opción más representativa en este reactivo.
+Podría confundir porque está en el norte del país y en el norte sí hay actividad pecuaria importante.
+Se descarta porque, frente a las otras opciones, no es la más reconocida aquí por ganadería bovina.
+
+B) Nuevo León
+Nuevo León también tiene actividad ganadera y económica importante.
+Podría confundir porque es un estado fuerte en varias actividades productivas.
+Se descarta porque en este tipo de reactivo no es el estado más identificado por la cría de ganado bovino.
+
+C) Sonora
+Sonora es un estado del norte con gran extensión territorial y tradición ganadera.
+Sí se relaciona directamente con la cría de ganado bovino.
+No se descarta porque es la opción más precisa dentro del tema de ganadería bovina en México.
+Se conserva porque Sonora es ampliamente reconocido por esta actividad.
+
+D) Aguascalientes
+Aguascalientes tiene actividad agropecuaria, pero no destaca a nivel nacional como la mejor respuesta en este caso.
+Podría confundir porque también participa en producción del sector primario.
+Se descarta porque no es la opción más fuerte frente a Sonora.
+
+E) Guanajuato
+Guanajuato tiene mucha importancia económica, agrícola e industrial.
+Podría confundir porque también cuenta con actividad pecuaria.
+Se descarta porque en el reactivo se busca el estado más representativo en cría de ganado bovino, y esa opción corresponde mejor a Sonora.
+
+Opción correcta:
+C) Sonora
+
+Argumento:
+Sonora es uno de los estados del norte de México más asociados con la ganadería bovina. Su territorio, sus condiciones de aprovechamiento ganadero y su tradición en esta actividad hacen que sea la opción más adecuada. El reactivo busca identificar una entidad claramente ligada a esa actividad económica, y la respuesta más precisa es Sonora.
+
+Pista:
+Piensa en los estados del norte que tienen fama por actividades ganaderas de gran escala, no tanto por industria o turismo.
+
+---
+---
+
+Temática del ejercicio: Puertos de comercio exterior en México
+
+Reactivo: 102
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+Puerto importante para el comercio exterior de México:
+
+Opciones:
+A) Zihuatanejo
+B) Huatulco
+C) Tampico
+D) Cancún
+E) Campeche
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué puerto destaca por su función en el comercio exterior de México.
+
+Desarrollo y descarte de opciones:
+
+A) Zihuatanejo
+Zihuatanejo es un puerto conocido más por actividades turísticas y pesqueras.
+Sí es un puerto, pero no es de los más representativos en comercio exterior dentro de este reactivo.
+Podría confundir porque cualquier puerto puede mover mercancías.
+Se descarta porque no es la opción más fuerte en comercio exterior.
+
+B) Huatulco
+Huatulco se asocia principalmente con turismo.
+Sí tiene actividad marítima, pero no destaca como uno de los grandes puertos comerciales del país.
+Podría confundir porque también está en la costa.
+Se descarta porque el enfoque principal de Huatulco no es el comercio exterior.
+
+C) Tampico
+Tampico es un puerto históricamente importante para el movimiento comercial y de mercancías.
+Sí se relaciona directamente con el comercio exterior.
+No se descarta porque es la opción que mejor encaja con el planteamiento.
+Se conserva porque es un puerto importante en la actividad comercial marítima de México.
+
+D) Cancún
+Cancún es muy importante, pero principalmente por turismo.
+Podría confundir porque es una ciudad costera muy conocida.
+Se descarta porque no destaca por comercio exterior como lo hace Tampico.
+
+E) Campeche
+Campeche tiene relación con actividad marítima y petrolera.
+Podría confundir por su cercanía con zonas de hidrocarburos.
+Se descarta porque el reactivo pide un puerto importante de comercio exterior, y la opción más precisa es Tampico.
+
+Opción correcta:
+C) Tampico
+
+Argumento:
+Tampico es uno de los puertos mexicanos más relacionados con el movimiento de mercancías y el comercio exterior. En este tipo de reactivos se busca distinguir entre puertos turísticos, pesqueros o petroleros y aquellos que tienen mayor peso comercial. Por eso la respuesta correcta es Tampico.
+
+Pista:
+Busca el puerto que se reconoce más por intercambio comercial de mercancías que por turismo.
+
+---
+---
+
+Temática del ejercicio: Ciudades y centros industriales de México
+
+Reactivo: 103
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+Un centro industrial en el norte de México corresponde a la ciudad de
+
+Opciones:
+A) Pachuca - Hidalgo
+B) Cuernavaca - Morelos
+C) León - Guanajuato
+D) Torreón - Coahuila
+E) Mazatlán - Sinaloa
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué ciudad del norte del país destaca como centro industrial.
+
+Desarrollo y descarte de opciones:
+
+A) Pachuca - Hidalgo
+Pachuca se ubica en el centro del país.
+Sí tiene actividad económica, pero no corresponde al norte de México.
+Podría confundir porque es una ciudad importante.
+Se descarta porque el reactivo pide un centro industrial del norte.
+
+B) Cuernavaca - Morelos
+Cuernavaca está en el centro-sur del país.
+Sí es una ciudad relevante, pero no pertenece al norte.
+Podría confundir porque también tiene actividad urbana importante.
+Se descarta por su ubicación y porque no es la opción más precisa como centro industrial del norte.
+
+C) León - Guanajuato
+León es una ciudad muy importante por su industria, sobre todo del calzado y la piel.
+Sí se relaciona con actividad industrial.
+Podría confundir porque sí es industrial, pero Guanajuato no corresponde al norte del país en este reactivo.
+Se descarta porque la pregunta especifica norte de México.
+
+D) Torreón - Coahuila
+Torreón se ubica en el norte de México.
+Sí es reconocida por su actividad industrial y económica.
+No se descarta porque cumple con las dos partes del reactivo: está en el norte y corresponde a un centro industrial.
+Se conserva porque es la opción más precisa.
+
+E) Mazatlán - Sinaloa
+Mazatlán está en el noroeste del país.
+Sí pertenece al norte en sentido amplio, pero destaca más por turismo, pesca y actividad portuaria.
+Podría confundir porque sí está en una entidad del norte.
+Se descarta porque no se identifica principalmente como centro industrial en este tipo de reactivo.
+
+Opción correcta:
+D) Torreón - Coahuila
+
+Argumento:
+Torreón, en el estado de Coahuila, es una ciudad del norte de México con importante desarrollo industrial. El reactivo busca una ciudad que combine ubicación norteña y actividad industrial destacada. Aunque León también tiene industria fuerte, no corresponde al norte del país. Por eso la respuesta correcta es Torreón - Coahuila.
+
+Pista:
+No busques solo una ciudad industrial. Busca una que además esté claramente ubicada en el norte de México.
+
+---
+---
+
+Temática del ejercicio: Ciudades industriales de México
+
+Reactivo: 104
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+Ciudad de la República Mexicana con importante actividad industrial:
+
+Opciones:
+A) Jalapa
+B) Villahermosa
+C) Oaxaca
+D) Tapachula
+E) Monterrey
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué ciudad de México destaca de manera clara por su actividad industrial.
+
+Desarrollo y descarte de opciones:
+
+A) Jalapa
+Jalapa, o Xalapa, es una ciudad importante de Veracruz.
+Sí tiene actividad económica y administrativa.
+Podría confundir porque es una capital estatal relevante.
+Se descarta porque no es de las ciudades más reconocidas a nivel nacional por actividad industrial pesada o amplia.
+
+B) Villahermosa
+Villahermosa es una ciudad importante del sureste.
+Sí tiene relación económica fuerte, sobre todo por su cercanía con la actividad petrolera de la región.
+Podría confundir porque tiene peso económico.
+Se descarta porque el reactivo pide una ciudad con importante actividad industrial, y esa identificación corresponde mejor a otra opción.
+
+C) Oaxaca
+Oaxaca es una ciudad importante en lo cultural, histórico y turístico.
+Sí tiene actividad económica urbana.
+Podría confundir porque es una capital estatal.
+Se descarta porque no se reconoce principalmente como gran ciudad industrial en este tipo de reactivos.
+
+D) Tapachula
+Tapachula es una ciudad importante del sur de México.
+Sí tiene actividad comercial y regional.
+Podría confundir porque es una ciudad fronteriza con dinamismo económico.
+Se descarta porque no destaca a nivel nacional como gran centro industrial.
+
+E) Monterrey
+Monterrey es una de las ciudades más reconocidas de México por su desarrollo industrial.
+Sí se relaciona directamente con fábricas, empresas, manufactura y actividad económica industrial.
+No se descarta porque coincide de forma directa con lo que pide el reactivo.
+Se conserva porque es la opción más precisa.
+
+Opción correcta:
+E) Monterrey
+
+Argumento:
+Monterrey es una de las principales ciudades industriales de México. Se distingue por su fuerte desarrollo en manufactura, industria y actividad empresarial. Frente a las demás opciones, es la ciudad que más claramente se identifica con una importante actividad industrial, por eso es la respuesta correcta.
+
+Pista:
+Busca la ciudad que normalmente se asocia con grandes industrias, empresas y producción manufacturera en México.
+
+---
+---
+---

@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>IFR | Geografía</title>
+  <meta name="description" content="Aplicación de práctica para Geografía ECOEMS 2026 con pistas, reintento y análisis desbloqueable tras el acierto.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="geografia-styles.css?v=20260402a">
+</head>
+<body>
+  <header class="top">
+    <div class="top-inner">
+      <div class="brand">
+        <img src="escudo-ifr-real.jpg" alt="Escudo del Instituto Fernando Ramírez">
+        <div>
+          <strong>Instituto Fernando Ramírez</strong>
+          <small>ECOEMS 2026</small>
+          <span>Geografía · práctica guiada y razonada</span>
+        </div>
+      </div>
+      <div class="top-stats" id="topStats"></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="topAnchor">
+      <div class="hero-copy">
+        <div class="hero-intro">
+          <span class="pill">Guías 1 y 2 · Geografía</span>
+          <h1>Practica Geografía ECOEMS con el orden real de las dos guías.</h1>
+        </div>
+        <p class="lead">Cada reactivo conserva su guía, su número y su secuencia original. La pista orienta sin regalar la respuesta, el reintento te deja volver a pensar y el análisis completo solo se abre cuando aciertas.</p>
+
+        <div class="guide-notes">
+          <article class="note">
+            <h3>Qué encontrarás 🧭</h3>
+            <p>Los 24 reactivos de Geografía organizados por guía y tema, sin mezclar el orden de origen ni recortar el contenido.</p>
+          </article>
+          <article class="note">
+            <h3>Cómo practicar 🧠</h3>
+            <p>Primero resuelves, luego decides si necesitas pista y, si fallas, vuelves a intentar sin que la app revele la opción correcta.</p>
+          </article>
+          <article class="note">
+            <h3>Qué se desbloquea ✅</h3>
+            <p>Tras el acierto se abre qué pide resolver el reactivo, por qué la correcta sí corresponde y por qué las demás no.</p>
+          </article>
+        </div>
+      </div>
+
+      <aside class="hero-side">
+        <div class="hero-visual">
+          <img class="hero-fox" src="Gemini_Generated_Image_k0nv7k0nv7k0nv7k.png" alt="Ilustración temática de Geografía para la práctica ECOEMS">
+        </div>
+      </aside>
+
+      <div class="filter-panel">
+        <h2>Explora la práctica</h2>
+        <div class="rows">
+          <div class="control-block">
+            <span class="control-label">Secciones</span>
+            <nav class="preset-nav hero-nav" id="presetNav"></nav>
+          </div>
+          <div class="control-block">
+            <span class="control-label">Guía</span>
+            <div class="guide-chips" id="guideChips"></div>
+          </div>
+        </div>
+        <div class="control-block">
+          <span class="control-label">Búsqueda</span>
+          <input id="searchInput" class="search-input" type="search" placeholder="Buscar por tema, reactivo o palabra del planteamiento">
+        </div>
+        <div class="control-block">
+          <span class="control-label">Temas</span>
+          <div class="topic-chips hero-nav compact-topics" id="topicChips"></div>
+        </div>
+        <div class="sum" id="metrics"></div>
+      </div>
+    </section>
+
+    <section class="content" id="content"></section>
+    <section class="empty" id="empty" hidden>
+      <h2>No hay reactivos con ese filtro.</h2>
+      <p>Ajusta la búsqueda, cambia de tema o vuelve a una vista más amplia.</p>
+    </section>
+  </main>
+
+  <button class="to-top" id="toTop" type="button" aria-label="Volver al inicio" title="Volver al inicio">↑</button>
+
+  <script src="geografia-data.js?v=20260402a"></script>
+  <script src="geografia-app.js?v=20260402a"></script>
+</body>
+</html>

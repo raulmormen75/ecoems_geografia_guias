@@ -1,0 +1,688 @@
+# Guía 1
+
+Temática del ejercicio: Componentes del espacio geográfico
+
+Reactivo: 93
+Fuente: Guía compartida por el usuario «no se distingue con certeza si corresponde a Guía 1 o Guía 2». El tema sí coincide con el programa de Geografía sobre espacio geográfico y sus componentes. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+
+Planteamiento del problema:
+Componentes del espacio geográfico que incluyen las actividades que se relacionan con la producción, transporte, comercialización y consumo de bienes y servicios. :contentReference[oaicite:2]{index=2}
+
+Opciones:
+A) Políticos.
+B) Sociales.
+C) Económicos.
+D) Físicos. :contentReference[oaicite:3]{index=3}
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué componente del espacio geográfico se relaciona con actividades de producción, transporte, comercio y consumo.
+
+Desarrollo y evaluación de opciones:
+
+A) Políticos.
+Esta opción se refiere a gobierno, poder, leyes, fronteras y organización del Estado.
+Sí se relaciona con el espacio geográfico, pero no con producir, transportar o vender bienes.
+Puede confundir porque también es un componente del espacio geográfico.
+Se descarta porque el enunciado habla de actividades económicas, no de gobierno.
+
+B) Sociales.
+Esta opción se refiere a población, educación, salud, cultura y formas de convivencia.
+Sí se relaciona con el espacio geográfico, pero no describe de manera directa la producción y comercialización de bienes y servicios.
+Puede confundir porque las personas participan en la economía, pero aquí no preguntan por población ni sociedad.
+Se descarta porque el centro del reactivo no es la vida social, sino las actividades productivas.
+
+C) Económicos.
+Esta opción se refiere precisamente a producción, transporte, comercialización y consumo de bienes y servicios.
+Sí coincide de manera directa con lo que dice el reactivo.
+Puede parecer muy obvia, pero justo por eso es la que mejor embona con todas las palabras del enunciado.
+Se conserva porque es la única que nombra el componente correcto.
+
+D) Físicos.
+Esta opción se refiere a relieve, clima, ríos, montañas, suelos y otros elementos naturales.
+Sí forma parte del espacio geográfico, pero no corresponde a actividades humanas de mercado.
+Puede confundir porque lo físico influye en la economía, pero no es lo que el reactivo está pidiendo.
+Se descarta porque no habla de bienes, servicios ni comercio.
+
+Opción correcta:
+C) Económicos
+
+Argumento:
+La respuesta correcta es «Económicos» porque el reactivo menciona exactamente actividades como producción, transporte, comercialización y consumo de bienes y servicios, y esas son propias del componente económico del espacio geográfico. Además, el programa académico de Geografía incluye de forma expresa el tema «Espacio geográfico: componentes físicos, sociales, económicos y políticos», por lo que este reactivo está alineado con ese contenido. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+
+Pista:
+Busca la opción que se relacione con actividades para producir, mover, vender y consumir cosas. Eso apunta al componente económico del espacio geográfico.
+
+---
+---
+
+Temática del ejercicio: Coordenadas geográficas
+
+Reactivo: 94
+
+Planteamiento del problema:
+Determina las coordenadas geográficas para el punto II.
+
+Opciones:
+A) 30° N, 10° W
+B) 30° S, 10° E
+C) 10° N, 30° W
+D) 10° S, 30° E
+
+Qué pide resolver el ejercicio:
+Hay que identificar la latitud y la longitud del punto II usando la cuadrícula del mapa.
+
+Desarrollo y evaluación de opciones:
+
+A) 30° N, 10° W
+❌ No puede ser.
+El punto II no está al norte del ecuador.
+Está abajo de la línea de 0°, así que no es latitud norte.
+Tampoco está al oeste del meridiano 0°, sino a la derecha.
+
+B) 30° S, 10° E
+❌ No puede ser.
+Sí está al sur del ecuador, pero no a 30°.
+El punto está solo una división abajo del ecuador, o sea en 10° S.
+Además, está más alejado del meridiano 0°, aproximadamente en 30° E.
+
+C) 10° N, 30° W
+❌ No puede ser.
+La longitud de 30° podría confundir, pero el punto no está al oeste.
+Está a la derecha del meridiano 0°, así que es este.
+Tampoco está al norte, porque se ubica debajo del ecuador.
+
+D) 10° S, 30° E
+✅ Sí puede ser.
+Paso a paso:
+1. El punto está debajo del ecuador, entonces la latitud es sur.
+2. Está exactamente en la primera línea abajo del 0°, entonces es 10° S.
+3. Está a la derecha del meridiano 0°, entonces la longitud es este.
+4. Se ubica sobre la línea de 30°, entonces es 30° E.
+
+Opción correcta:
+D) 10° S, 30° E
+
+Argumento:
+La respuesta correcta es 10° S, 30° E porque el punto II está una división abajo del ecuador y tres divisiones a la derecha del meridiano de Greenwich. En el mapa eso corresponde a latitud sur de 10° y longitud este de 30°.
+
+Pista:
+📍 Abajo del ecuador = sur.
+📍 Derecha del meridiano 0° = este.
+
+---
+---
+
+Temática del ejercicio: Sismicidad y placas tectónicas
+
+Reactivo: 95
+Fuente: Guía compartida por el usuario. :contentReference[oaicite:0]{index=0}
+
+Planteamiento del problema:
+Las zonas de mayor sismicidad se relacionan con: :contentReference[oaicite:1]{index=1}
+
+Opciones:
+A) límites convergentes.
+B) grandes planicies.
+C) límites divergentes.
+D) depresiones relativas. :contentReference[oaicite:2]{index=2}
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar en qué tipo de zona de la corteza terrestre se presentan más sismos.
+
+Desarrollo y evaluación de opciones:
+
+A) límites convergentes.
+✅ Sí se relaciona.
+Son zonas donde dos placas tectónicas chocan.
+Ese choque acumula y libera mucha energía, y por eso ahí son comunes los sismos.
+Se conserva porque es la opción que mejor explica las zonas de mayor sismicidad.
+
+B) grandes planicies.
+❌ No se relaciona de manera directa.
+Una planicie es una forma del relieve, pero no indica por sí sola actividad tectónica intensa.
+Puede confundir porque habla del terreno, pero el reactivo pregunta por el origen de la sismicidad.
+Se descarta.
+
+C) límites divergentes.
+⚠️ Sí pueden presentar actividad sísmica, pero no son las zonas de mayor sismicidad en comparación con los convergentes.
+Aquí las placas se separan, no chocan.
+Puede confundir porque también es un tipo de límite tectónico.
+Se descarta porque el reactivo pide las zonas de mayor sismicidad.
+
+D) depresiones relativas.
+❌ No corresponde.
+Eso describe una forma del relieve más baja que el terreno que la rodea.
+No explica directamente la generación principal de sismos.
+Se descarta.
+
+Opción correcta:
+A) límites convergentes
+
+Argumento:
+La respuesta correcta es «límites convergentes» porque son zonas donde dos placas tectónicas se empujan o chocan, y esa presión acumulada provoca liberación de energía en forma de sismos. El reactivo pertenece al bloque de Geografía donde se trabajan sismicidad y procesos tectónicos. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
+
+Pista:
+Piensa en el lugar donde las placas se encuentran de frente y la presión se acumula más.
+
+---
+---
+
+Temática del ejercicio: Ciclo del agua e infiltración
+
+Reactivo: 96
+Fuente: Guía compartida por el usuario. El tema coincide con «Agua: ciclo del agua e infiltración» del programa de Geografía. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+
+Planteamiento del problema:
+Parte del ciclo del agua relacionada directamente con las aguas subterráneas. :contentReference[oaicite:2]{index=2}
+
+Opciones:
+A) Evaporación.
+B) Precipitación.
+C) Condensación.
+D) Infiltración. :contentReference[oaicite:3]{index=3}
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué proceso del ciclo del agua se relaciona de manera directa con el paso del agua hacia el subsuelo.
+
+Desarrollo y evaluación de opciones:
+
+A) Evaporación.
+❌ No es.
+La evaporación es cuando el agua líquida pasa a vapor por efecto del calor.
+Sí es parte del ciclo del agua, pero ocurre hacia la atmósfera, no hacia el subsuelo.
+Se descarta porque no forma aguas subterráneas.
+
+B) Precipitación.
+❌ No es.
+La precipitación es cuando el agua cae de las nubes en forma de lluvia, nieve o granizo.
+Sí aporta agua a la superficie, pero todavía no significa que ya esté en el subsuelo.
+Puede confundir porque la lluvia puede terminar infiltrándose.
+Se descarta porque el reactivo pide la parte directamente relacionada con las aguas subterráneas.
+
+C) Condensación.
+❌ No es.
+La condensación es cuando el vapor de agua se enfría y forma gotas.
+Esto sucede en la atmósfera y ayuda a formar nubes.
+Se descarta porque no explica el paso del agua al suelo.
+
+D) Infiltración.
+✅ Sí es.
+La infiltración es el proceso por el que el agua entra al suelo y baja hacia capas subterráneas.
+Esa relación es directa con las aguas subterráneas.
+Se conserva porque es exactamente lo que pregunta el reactivo. Además, en la guía de resolución que compartiste este tema se identifica como «infiltración y aguas subterráneas». :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+
+Opción correcta:
+D) Infiltración
+
+Argumento:
+La respuesta correcta es «Infiltración» porque las aguas subterráneas se forman cuando parte del agua de la superficie entra en el suelo y desciende por sus poros y grietas. Evaporación, precipitación y condensación sí son partes del ciclo del agua, pero no son la relación más directa con el agua subterránea. :contentReference[oaicite:6]{index=6}
+
+Pista:
+💧 Piensa en el proceso donde el agua de lluvia no se queda arriba, sino que se mete en la tierra.
+
+---
+---
+
+Temática del ejercicio: Protección del medio ambiente y combustibles alternativos
+
+Reactivo: 97
+Fuente: Guía compartida por el usuario. El tema también coincide con el programa de Geografía en el apartado «Combustibles alternativos: aceites vegetales como alternativa». :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+
+Planteamiento del problema:
+Una manera de proteger el medio ambiente es la fabricación de combustibles a partir de
+A) recursos hídricos.
+B) derivados del petróleo.
+C) aceites vegetales.
+D) recursos marítimos. :contentReference[oaicite:2]{index=2}
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué tipo de materia prima sirve como alternativa menos contaminante para fabricar combustibles.
+
+Desarrollo y descarte de opciones:
+
+A) recursos hídricos.
+No es la mejor opción.
+Los recursos hídricos son agua.
+El agua no se usa así como base directa para fabricar este tipo de combustibles alternativos del reactivo.
+Se descarta.
+
+B) derivados del petróleo.
+No es.
+Los derivados del petróleo siguen dependiendo de combustibles fósiles.
+Eso no apunta a una medida de protección ambiental en este contexto.
+Puede confundir porque sí son combustibles, pero no son la alternativa que busca el reactivo.
+Se descarta.
+
+C) aceites vegetales.
+Sí es.
+Los aceites vegetales pueden usarse para producir biocombustibles, como el biodiésel.
+Eso sí se relaciona con una alternativa para disminuir la dependencia del petróleo.
+Se conserva porque coincide exactamente con el tema del programa y con lo que pregunta el reactivo. :contentReference[oaicite:3]{index=3}
+
+D) recursos marítimos.
+No es la opción correcta.
+Es una expresión muy general y no señala una materia prima concreta para fabricar combustibles alternativos.
+Puede sonar ambiental, pero no responde de manera precisa.
+Se descarta.
+
+Opción correcta:
+C) aceites vegetales
+
+Argumento:
+La respuesta correcta es «aceites vegetales» porque el reactivo busca una opción de combustibles alternativos que ayude a proteger el medio ambiente. En el programa académico de Geografía aparece de forma expresa el tema «aceites vegetales como alternativa», así que esa es la relación correcta. :contentReference[oaicite:4]{index=4}
+
+Pista:
+Busca la opción que no dependa del petróleo y que provenga de recursos vegetales.
+
+---
+---
+
+Temática del ejercicio: Riesgos naturales en México
+
+Reactivo: 98
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+Principal factor de riesgo para la población que vive en la península de Yucatán.
+
+Opciones:
+A) Tsunamis.
+B) Huracanes.
+C) Derrumbes.
+D) Sismos.
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar cuál es el riesgo natural más común y más representativo para la península de Yucatán.
+
+Desarrollo y descarte de opciones:
+
+A) Tsunamis.
+❌ No es la mejor opción.
+Un tsunami puede afectar zonas costeras, pero no es el riesgo principal asociado a la península de Yucatán.
+Puede confundir porque Yucatán tiene salida al mar.
+Se descarta porque el fenómeno más frecuente y conocido en esa región no son los tsunamis.
+
+B) Huracanes.
+✅ Sí es.
+La península de Yucatán se ubica en una zona muy expuesta a ciclones tropicales y huracanes del Caribe y del Golfo de México.
+Sí coincide con el tipo de riesgo regional más común.
+Se conserva porque es la opción que mejor se relaciona con esa región.
+
+C) Derrumbes.
+❌ No es.
+Los derrumbes suelen relacionarse más con zonas montañosas o de pendientes fuertes.
+La península de Yucatán no se caracteriza por ese tipo de relieve.
+Se descarta.
+
+D) Sismos.
+❌ No es la principal.
+En México sí hay zonas con alto riesgo sísmico, pero la península de Yucatán no destaca por eso.
+Puede confundir porque el país sí presenta sismos en otras regiones.
+Se descarta porque no es el factor de riesgo principal ahí.
+
+Opción correcta:
+B) Huracanes
+
+Argumento:
+La respuesta correcta es B) Huracanes porque la península de Yucatán es una región muy expuesta al paso de ciclones tropicales provenientes del Caribe y del Golfo de México. Por eso, el riesgo natural más representativo para su población son los huracanes.
+
+Pista:
+Piensa en el fenómeno natural que afecta con más frecuencia a Quintana Roo, Yucatán y Campeche por su ubicación costera.
+
+---
+---
+
+Temática del ejercicio: Hidrocarburos en México
+
+Reactivo: 99
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+Principales ciudades de México que destacan por la extracción de hidrocarburos.
+
+Opciones:
+A) Coatzacoalcos y Poza Rica.
+B) Salamanca y Tampico.
+C) Puerto Madero y Campeche.
+D) Veracruz y Tuxpan.
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué ciudades se asocian más con la actividad petrolera y la extracción de hidrocarburos en México.
+
+Desarrollo y descarte de opciones:
+
+A) Coatzacoalcos y Poza Rica.
+✅ Sí se relaciona.
+Poza Rica es una ciudad muy conocida por su historia petrolera.
+Coatzacoalcos también se relaciona fuertemente con la actividad petrolera y petroquímica.
+Puede confundir porque Coatzacoalcos también es puerto, pero sí entra dentro de la zona petrolera del país.
+Se conserva.
+
+B) Salamanca y Tampico.
+❌ No es la mejor opción.
+Tampico sí tiene relación histórica con el petróleo.
+Pero Salamanca destaca más por refinación, no por extracción.
+La palabra que hace fallar esta opción es «extracción».
+Se descarta.
+
+C) Puerto Madero y Campeche.
+❌ No es.
+Campeche sí se relaciona con hidrocarburos.
+Pero Puerto Madero no destaca como una de las ciudades principales por extracción petrolera.
+Puede confundir porque Campeche sí suena petrolero.
+Se descarta porque el par no queda bien completo.
+
+D) Veracruz y Tuxpan.
+❌ No es la mejor opción.
+Tuxpan sí tiene relación con actividad petrolera y portuaria.
+Pero Veracruz destaca más como puerto y comercio, no como ciudad principal de extracción.
+Puede confundir porque ambas están en la costa del Golfo.
+Se descarta.
+
+Opción correcta:
+A) Coatzacoalcos y Poza Rica
+
+Argumento:
+La respuesta correcta es A) Coatzacoalcos y Poza Rica porque ambas ciudades se relacionan de manera importante con la actividad de hidrocarburos en México. Poza Rica ha sido una ciudad petrolera muy representativa, y Coatzacoalcos forma parte de una zona ampliamente vinculada con el petróleo y la petroquímica. Las otras opciones incluyen lugares que se asocian más con refinación, puerto o comercio, no directamente con extracción.
+
+Pista:
+Fíjate en la palabra «extracción». No te vayas con ciudades que solo sean puertos o refinadoras.
+
+---
+---
+
+Temática del ejercicio: Transporte marítimo de hidrocarburos
+
+Reactivo: 100
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+El transporte _______ se aprovecha para transportar petróleo de Veracruz a Estados Unidos de América.
+
+Opciones:
+A) lacustre
+B) fluvial
+C) marítimo
+D) terrestre
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué tipo de transporte se usa para mover petróleo desde Veracruz hacia Estados Unidos.
+
+Desarrollo y descarte de opciones:
+
+A) lacustre
+❌ No es.
+El transporte lacustre se realiza en lagos.
+Veracruz y Estados Unidos no se conectan por lagos para este traslado.
+Se descarta porque no corresponde a una ruta internacional de ese tipo.
+
+B) fluvial
+❌ No es.
+El transporte fluvial se hace por ríos.
+Puede confundir porque también usa agua, pero Veracruz hacia Estados Unidos no se plantea aquí como ruta por río.
+Se descarta.
+
+C) marítimo
+✅ Sí es.
+El transporte marítimo se realiza por mar.
+Veracruz es un puerto en el Golfo de México, así que el petróleo puede enviarse por barco hacia Estados Unidos.
+Se conserva porque es la opción que sí coincide con el trayecto mencionado.
+
+D) terrestre
+❌ No es la mejor opción.
+El transporte terrestre se hace por carretera o ferrocarril.
+Puede existir para distancias internas, pero el reactivo habla de Veracruz hacia Estados Unidos y la opción más lógica en este contexto geográfico es por mar.
+Se descarta.
+
+Opción correcta:
+C) marítimo
+
+Argumento:
+La respuesta correcta es C) marítimo porque Veracruz es un puerto y el traslado de petróleo hacia Estados Unidos se aprovecha por vía marina a través del Golfo de México. «Lacustre» es en lagos, «fluvial» es en ríos y «terrestre» no es la opción más adecuada para el planteamiento del reactivo.
+
+Pista:
+Piensa en qué medio de transporte aprovecha un puerto para mover petróleo a otro país 🌊
+
+---
+---
+
+Temática del ejercicio: Organismos internacionales
+
+Reactivo: 101
+Fuente: Guía compartida por el usuario «no se distingue con certeza si corresponde a Guía 1 o Guía 2»
+
+Planteamiento del problema:
+Institución conformada por 184 miembros cuyo objetivo es asegurar la estabilidad financiera mundial a través del comercio internacional, la promoción del empleo y el desarrollo económico sustentable.
+
+Opciones:
+A) Fondo Monetario Internacional.
+B) Banco Mundial.
+C) Conferencia de Naciones Unidas.
+D) Organización de Cooperación y Desarrollo Económico.
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué organismo internacional se relaciona con la estabilidad financiera mundial y con el impulso al comercio y al empleo.
+
+Desarrollo y evaluación de opciones:
+
+A) Fondo Monetario Internacional.
+✅ Sí se relaciona.
+El Fondo Monetario Internacional se enfoca en la estabilidad financiera y monetaria internacional.
+También promueve la cooperación económica entre países.
+Se conserva porque es la opción que mejor coincide con la idea central del reactivo: estabilidad financiera mundial.
+
+B) Banco Mundial.
+⚠️ Puede confundir.
+El Banco Mundial también es un organismo internacional y trabaja temas de desarrollo económico.
+Pero su función se asocia más con financiamiento para proyectos de desarrollo y reducción de pobreza.
+La palabra que hace más fuerte a la opción A es «estabilidad financiera mundial».
+Se descarta.
+
+C) Conferencia de Naciones Unidas.
+❌ No es la mejor opción.
+Es una referencia demasiado general.
+No nombra con precisión una institución económica con esa función específica.
+Se descarta porque el reactivo pide un organismo concreto y reconocido por esa tarea.
+
+D) Organización de Cooperación y Desarrollo Económico.
+❌ No es.
+La OCDE sí trabaja temas económicos y de cooperación.
+Pero no es la institución que se identifica por asegurar la estabilidad financiera mundial.
+Además, no coincide con el dato de miembros que maneja el reactivo.
+Se descarta.
+
+Opción correcta:
+A) Fondo Monetario Internacional
+
+Argumento:
+La respuesta correcta es A) Fondo Monetario Internacional porque es el organismo internacional que se asocia de manera directa con la estabilidad financiera mundial. En el programa académico de Geografía aparece el tema «Organismos internacionales: FMI, para qué existe y qué busca», así que el reactivo está alineado exactamente con ese contenido. La opción del Banco Mundial puede confundir porque también trata desarrollo, pero su función principal no se presenta así en este reactivo.
+
+Pista:
+Fíjate en la expresión «estabilidad financiera mundial». Esa frase te lleva al organismo que vigila y apoya el orden financiero internacional.
+
+---
+---
+
+Temática del ejercicio: Cambios geopolíticos y fronteras políticas
+
+Reactivo: 102
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+País que se independizó en julio de 2011 después de una guerra civil, lo que ocasionó que se modificaran las fronteras políticas de África.
+
+Opciones:
+A) Kosovo.
+B) Sudán del Sur.
+C) Eritrea.
+D) Namibia.
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar qué país africano se volvió independiente en julio de 2011 y cambió el mapa político de África.
+
+Desarrollo y descarte de opciones:
+
+A) Kosovo.
+❌ No es.
+Kosovo sí se relaciona con independencia, pero no está en África.
+Está en Europa.
+Se descarta porque el reactivo habla de fronteras políticas de África.
+
+B) Sudán del Sur.
+✅ Sí es.
+Sudán del Sur se independizó en julio de 2011.
+Esa separación modificó las fronteras políticas africanas.
+Se conserva porque coincide exactamente con la fecha, el proceso y la región que menciona el reactivo.
+
+C) Eritrea.
+❌ No es.
+Eritrea también es un país africano que se independizó.
+El problema es la fecha.
+Su independencia fue antes de 2011.
+Se descarta porque no coincide con el dato temporal del reactivo.
+
+D) Namibia.
+❌ No es.
+Namibia también logró su independencia en África.
+Pero no fue en julio de 2011.
+Se descarta porque no coincide con el año que pide el reactivo.
+
+Opción correcta:
+B) Sudán del Sur
+
+Argumento:
+La respuesta correcta es B) Sudán del Sur porque fue el país que se independizó en julio de 2011 después de un proceso de conflicto interno, y esa separación cambió las fronteras políticas del continente africano.
+
+Pista:
+📍 Busca la opción que sea un país africano de creación más reciente.
+
+---
+---
+
+Temática del ejercicio: Patrimonio cultural de la humanidad en México
+
+Reactivo: 103
+Fuente: Guía compartida por el usuario. El tema coincide con «Patrimonio cultural de la humanidad en México». :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+
+Planteamiento del problema:
+Relaciona los sitios considerados patrimonio cultural de la humanidad con la entidad en donde se localizan.
+
+Entidad:
+I. Querétaro.
+II. Veracruz.
+III. Oaxaca.
+IV. Chihuahua.
+
+Patrimonio:
+a. Zona arqueológica de Paquimé.
+b. Misiones Franciscanas de la Sierra Gorda.
+c. Monumentos históricos de Tlacotalpan.
+d. Sitio arqueológico de Monte Albán. :contentReference[oaicite:2]{index=2}
+
+Opciones:
+A) I: d – II: a – III: c – IV: b
+B) I: a – II: b – III: c – IV: d
+C) I: b – II: c – III: d – IV: a
+D) I: b – II: d – III: a – IV: c :contentReference[oaicite:3]{index=3}
+
+Qué pide resolver el ejercicio:
+Aquí hay que relacionar correctamente cada entidad con su sitio patrimonial.
+
+Desarrollo y descarte de opciones:
+
+A) I: d – II: a – III: c – IV: b
+❌ No puede ser.
+Pone a Querétaro con Monte Albán, pero Monte Albán está en Oaxaca.
+También pone a Veracruz con Paquimé, y Paquimé está en Chihuahua.
+Se descarta porque varias relaciones están cruzadas.
+
+B) I: a – II: b – III: c – IV: d
+❌ No puede ser.
+Aquí Querétaro aparece con Paquimé, pero Paquimé corresponde a Chihuahua.
+Además, Veracruz aparece con Misiones Franciscanas de la Sierra Gorda, que van con Querétaro.
+Se descarta.
+
+C) I: b – II: c – III: d – IV: a
+✅ Sí puede ser.
+Paso a paso:
+I. Querétaro → Misiones Franciscanas de la Sierra Gorda.
+II. Veracruz → Monumentos históricos de Tlacotalpan.
+III. Oaxaca → Sitio arqueológico de Monte Albán.
+IV. Chihuahua → Zona arqueológica de Paquimé.
+Todas las relaciones coinciden correctamente.
+Se conserva.
+
+D) I: b – II: d – III: a – IV: c
+❌ No puede ser.
+Empieza bien con Querétaro y Sierra Gorda.
+Pero después pone a Veracruz con Monte Albán, y Monte Albán está en Oaxaca.
+También pone a Oaxaca con Paquimé, y Paquimé corresponde a Chihuahua.
+Se descarta.
+
+Opción correcta:
+C) I: b – II: c – III: d – IV: a
+
+Argumento:
+La respuesta correcta es C porque las correspondencias correctas son: Querétaro con las Misiones Franciscanas de la Sierra Gorda, Veracruz con los monumentos históricos de Tlacotalpan, Oaxaca con Monte Albán y Chihuahua con Paquimé. El error en las demás opciones está en cruzar entidades con sitios que pertenecen a otro estado. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+
+Pista:
+Ubica primero los dos más conocidos: Monte Albán va con Oaxaca y Paquimé va con Chihuahua. Desde ahí, las demás se acomodan solas.
+
+---
+---
+
+Temática del ejercicio: Mar territorial
+
+Reactivo: 104
+Fuente: Guía compartida por el usuario
+
+Planteamiento del problema:
+Franja adyacente a las costas cuya anchura es de 12 millas náuticas y donde el Estado ejerce plena soberanía.
+
+Opciones:
+A) Mar territorial.
+B) Mar patrimonial.
+C) Región patrimonial.
+D) Zona territorial.
+
+Qué pide resolver el ejercicio:
+Aquí hay que identificar cuál es el nombre correcto de la zona marítima de 12 millas náuticas donde el Estado sí ejerce soberanía plena.
+
+Desarrollo y descarte de opciones:
+
+A) Mar territorial.
+✅ Sí es.
+Es la franja de mar que está junto a la costa y que, por regla general, abarca 12 millas náuticas.
+Ahí el Estado ejerce soberanía.
+Se conserva porque coincide exactamente con la definición del reactivo.
+
+B) Mar patrimonial.
+❌ No es.
+Puede confundir porque también se relaciona con espacios marítimos del país.
+Pero no es la expresión precisa para la franja de 12 millas con soberanía plena.
+Se descarta.
+
+C) Región patrimonial.
+❌ No es.
+Suena parecida, pero no es el término geográfico y jurídico correcto.
+Puede confundir por la palabra «patrimonial».
+Se descarta porque no nombra una zona marítima reconocida así en este contexto.
+
+D) Zona territorial.
+❌ No es.
+También suena lógica por la palabra «territorial».
+Pero el nombre exacto no es ese.
+Se descarta porque el concepto correcto sí existe y es más preciso.
+
+Opción correcta:
+A) Mar territorial
+
+Argumento:
+La respuesta correcta es A) Mar territorial porque así se llama la franja de mar junto a las costas que mide 12 millas náuticas y en la que el Estado ejerce soberanía plena. El reactivo está alineado con el tema de Geografía sobre mar territorial y millas náuticas.
+
+Pista:
+🌊 Fíjate en la opción que nombra de forma exacta la franja marítima cercana a la costa que sí forma parte del ámbito soberano del país.
+
+---
+---
+---
