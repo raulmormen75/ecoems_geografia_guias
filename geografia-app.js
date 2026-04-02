@@ -3,16 +3,8 @@
   const GUIDES = DATA.guides || [];
   const TOPICS = DATA.topics || [];
   const GUIDE_ORDER = Object.fromEntries(GUIDES.map((guide, index) => [guide.id, index]));
-  const STATE = { view: 'inicio', guide: 'all', topic: 'all', query: '' };
+  const STATE = { guide: 'all', topic: 'all' };
   const CARD_STATE = {};
-
-  const VIEWS = [
-    { id: 'inicio', label: 'Inicio' },
-    { id: 'guia-1', label: 'Guía 1' },
-    { id: 'guia-2', label: 'Guía 2' },
-    { id: 'temas', label: 'Temas' },
-    { id: 'todos', label: 'Todos los reactivos' }
-  ];
 
   const GUIDE_TEXT = {
     'guia-1': 'Primera guía con reactivos 93 a 104 y cuatro opciones por ejercicio.',
@@ -87,20 +79,16 @@
   }
 
   function currentGuide() {
-    if (STATE.view === 'guia-1') return 'guia-1';
-    if (STATE.view === 'guia-2') return 'guia-2';
     return STATE.guide;
   }
 
   function matches() {
     const guide = currentGuide();
     const topic = STATE.topic;
-    const query = normalizeText(STATE.query.trim());
 
     return EXERCISES.filter((exercise) => {
       if (guide !== 'all' && exercise.guideId !== guide) return false;
       if (topic !== 'all' && exercise.topicId !== topic) return false;
-      if (query && !exercise.searchIndex.includes(query)) return false;
       return true;
     }).sort((left, right) => {
       if (left.guideOrder !== right.guideOrder) return left.guideOrder - right.guideOrder;
@@ -456,27 +444,15 @@
     </section>`;
   }
 
-  function home() {
-    const previews = GUIDES.map((guide) => guideSection(guide, guide.exercises.slice(0, 2))).join('');
-
-    return previews;
-  }
-
-  function renderPresetNav() {
-    return VIEWS.map((view) => chip(view.label, STATE.view === view.id, 'view', { 'data-view': view.id })).join('');
-  }
-
   function renderGuideChips() {
     return [
-      chip('Todas las guías', currentGuide() === 'all' && !['guia-1', 'guia-2'].includes(STATE.view), 'guide', { 'data-guide': 'all' }),
+      chip('Todas las guías', currentGuide() === 'all', 'guide', { 'data-guide': 'all' }),
       ...GUIDES.map((guide) => chip(guide.name, currentGuide() === guide.id, 'guide', { 'data-guide': guide.id }))
     ].join('');
   }
 
   function renderTopicChips(list) {
-    const visibleTopics = STATE.view === 'inicio'
-      ? TOPICS
-      : TOPICS.filter((topic) => list.some((exercise) => exercise.topicId === topic.id) || STATE.topic === topic.id);
+    const visibleTopics = TOPICS.filter((topic) => list.some((exercise) => exercise.topicId === topic.id) || STATE.topic === topic.id);
 
     return [
       chip('Todos los temas', STATE.topic === 'all', 'topic', { 'data-topic': 'all' }),
@@ -496,16 +472,9 @@
     const list = matches();
 
     byId('topStats').textContent = `Visibles: ${list.length} | Guías: ${distinct(list, 'guideId')} | Temas: ${distinct(list, 'topicId')}`;
-    byId('presetNav').innerHTML = renderPresetNav();
     byId('guideChips').innerHTML = renderGuideChips();
     byId('topicChips').innerHTML = renderTopicChips(list);
     byId('metrics').innerHTML = renderMetrics(list);
-
-    if (STATE.view === 'inicio') {
-      byId('content').innerHTML = home();
-      byId('empty').hidden = true;
-      return;
-    }
 
     if (!list.length) {
       byId('content').innerHTML = '';
@@ -514,19 +483,6 @@
     }
 
     byId('empty').hidden = true;
-
-    if (STATE.view === 'temas') {
-      const grouped = new Map();
-      list.forEach((exercise) => {
-        if (!grouped.has(exercise.topicId)) grouped.set(exercise.topicId, []);
-        grouped.get(exercise.topicId).push(exercise);
-      });
-
-      byId('content').innerHTML = TOPICS.filter((topic) => grouped.has(topic.id))
-        .map((topic) => topicSection(topic, grouped.get(topic.id)))
-        .join('');
-      return;
-    }
 
     byId('content').innerHTML = GUIDES
       .map((guide) => guideSection(guide, list.filter((exercise) => exercise.guideId === guide.id)))
@@ -539,30 +495,14 @@
 
     const action = node.dataset.action;
 
-    if (action === 'view') {
-      STATE.view = node.dataset.view || 'inicio';
-      if (STATE.view === 'guia-1') STATE.guide = 'guia-1';
-      if (STATE.view === 'guia-2') STATE.guide = 'guia-2';
-      if (STATE.view === 'inicio') {
-        STATE.guide = 'all';
-        STATE.topic = 'all';
-      }
-      render();
-      return;
-    }
-
     if (action === 'guide') {
       STATE.guide = node.dataset.guide || 'all';
-      if (STATE.guide === 'guia-1' || STATE.guide === 'guia-2') STATE.view = STATE.guide;
-      else if (STATE.view === 'guia-1' || STATE.view === 'guia-2') STATE.view = 'todos';
-      if (STATE.view === 'inicio') STATE.view = 'todos';
       render();
       return;
     }
 
     if (action === 'topic') {
       STATE.topic = node.dataset.topic || 'all';
-      if (STATE.view === 'inicio') STATE.view = 'temas';
       render();
       return;
     }
@@ -616,12 +556,6 @@
         });
       }
     }
-  });
-
-  byId('searchInput').addEventListener('input', (event) => {
-    STATE.query = event.target.value || '';
-    if (STATE.view === 'inicio' && STATE.query.trim()) STATE.view = 'todos';
-    render();
   });
 
   const toTop = byId('toTop');
