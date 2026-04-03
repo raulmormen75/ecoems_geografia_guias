@@ -264,7 +264,7 @@
         </div>
         <span class="visual-badge">Concepto base</span>
       </div>
-      <div class="lat-ref-wrap" style="display: flex; justify-content: center; max-width: 400px; margin: 0 auto; width: 100%;">
+      <div class="lat-ref-wrap" style="display: flex; justify-content: center; max-width: 520px; margin: 0 auto; width: 100%;">
         <svg viewBox="0 0 640 440" style="width: 100%; height: auto; font-family: system-ui, -apple-system, sans-serif;" role="img" aria-label="${esc(title)}">
           <defs>
             <marker id="arrow-lat" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
