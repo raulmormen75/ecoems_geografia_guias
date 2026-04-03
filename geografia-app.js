@@ -249,7 +249,7 @@
         <span class="visual-badge">Coordenadas</span>
       </div>
       <div class="map-grid-wrap" style="padding: 12px; background: rgba(255,255,255,0.98); border-radius: 28px;">
-        <img src="mapa_reactivo_94.svg" alt="${esc(spec.title)}" style="width: 100%; border-radius: 16px; display: block;" />
+        <img src="mapa_reactivo_94.png" alt="${esc(spec.title)}" style="width: 100%; border-radius: 16px; display: block;" />
       </div>
     </section>`;
   }
