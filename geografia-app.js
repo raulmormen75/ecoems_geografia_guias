@@ -255,30 +255,82 @@
   }
 
   function renderLatitudeReference(spec) {
+    const title = 'Cómo se mide la latitud y la longitud';
     return `<section class="visual-support">
       <div class="visual-head">
         <div>
           <div class="meta">Apoyo visual</div>
-          <h4>${esc(spec.title)}</h4>
+          <h4>${esc(title)}</h4>
         </div>
         <span class="visual-badge">Concepto base</span>
       </div>
-      <div class="lat-ref-wrap">
-        <svg viewBox="0 0 360 240" role="img" aria-label="${esc(spec.title)}">
-          <rect x="0" y="0" width="360" height="240" rx="28" fill="rgba(255,255,255,0.98)"/>
-          <circle cx="180" cy="120" r="74" class="lat-sphere"/>
-          <line x1="180" y1="32" x2="180" y2="208" class="lat-axis"/>
-          <line x1="70" y1="120" x2="290" y2="120" class="lat-axis"/>
-          <path d="M106 94c18 8 45 12 74 12s56-4 74-12" class="lat-grid"/>
-          <path d="M106 146c18-8 45-12 74-12s56 4 74 12" class="lat-grid"/>
-          <text x="180" y="112" text-anchor="middle" class="geo-label">Ecuador</text>
-          <text x="192" y="58" class="geo-label">Meridiano 0°</text>
-          <text x="180" y="26" text-anchor="middle" class="geo-dir">90° N</text>
-          <text x="180" y="226" text-anchor="middle" class="geo-dir">90° S</text>
-          <text x="42" y="126" class="geo-dir">180° O</text>
-          <text x="286" y="126" class="geo-dir">180° E</text>
-          <text x="180" y="86" text-anchor="middle" class="lat-note">Latitud: norte o sur</text>
-          <text x="180" y="160" text-anchor="middle" class="lat-note">Longitud: este u oeste</text>
+      <div class="lat-ref-wrap" style="display: flex; justify-content: center; max-width: 400px; margin: 0 auto; width: 100%;">
+        <svg viewBox="0 0 640 440" style="width: 100%; height: auto; font-family: system-ui, -apple-system, sans-serif;" role="img" aria-label="${esc(title)}">
+          <defs>
+            <marker id="arrow-lat" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+              <path d="M 0 1 L 9 5 L 0 9 z" fill="#059669" />
+            </marker>
+            <marker id="arrow-lon" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+              <path d="M 0 1 L 9 5 L 0 9 z" fill="#2563EB" />
+            </marker>
+          </defs>
+          <rect x="0" y="0" width="640" height="440" rx="24" fill="#F8FAFC" />
+          
+          <!-- Globo (Fondo) -->
+          <circle cx="320" cy="220" r="130" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2" />
+          
+          <!-- Meridianos (Longitudes) -->
+          <path d="M 320 90 A 65 130 0 0 0 320 350" fill="none" stroke="#93C5FD" stroke-width="1.5" stroke-dasharray="6,4" />
+          <path d="M 320 90 A 65 130 0 0 1 320 350" fill="none" stroke="#93C5FD" stroke-width="1.5" stroke-dasharray="6,4" />
+          <path d="M 320 90 A 105 130 0 0 0 320 350" fill="none" stroke="#93C5FD" stroke-width="1.5" stroke-dasharray="6,4" />
+          <path d="M 320 90 A 105 130 0 0 1 320 350" fill="none" stroke="#93C5FD" stroke-width="1.5" stroke-dasharray="6,4" />
+          
+          <!-- Paralelos (Latitudes) -->
+          <path d="M 207.4 155 A 112.6 30 0 0 0 432.6 155" fill="none" stroke="#6EE7B7" stroke-width="1.5" stroke-dasharray="6,4" />
+          <path d="M 207.4 285 A 112.6 30 0 0 0 432.6 285" fill="none" stroke="#6EE7B7" stroke-width="1.5" stroke-dasharray="6,4" />
+          <path d="M 250.7 110 A 69.3 18 0 0 0 389.3 110" fill="none" stroke="#6EE7B7" stroke-width="1.5" stroke-dasharray="6,4" />
+          <path d="M 250.7 330 A 69.3 18 0 0 0 389.3 330" fill="none" stroke="#6EE7B7" stroke-width="1.5" stroke-dasharray="6,4" />
+          
+          <!-- Ejes principales: Ecuador y Meridiano de Greenwich -->
+          <line x1="160" y1="220" x2="480" y2="220" stroke="#059669" stroke-width="3" />
+          <line x1="320" y1="60" x2="320" y2="380" stroke="#2563EB" stroke-width="3" />
+          
+          <!-- Flechas de Latitud (Norte/Sur) desde el Ecuador -->
+          <line x1="260" y1="220" x2="260" y2="155" stroke="#059669" stroke-width="2.5" marker-end="url(#arrow-lat)" />
+          <line x1="260" y1="220" x2="260" y2="285" stroke="#059669" stroke-width="2.5" marker-end="url(#arrow-lat)" />
+          
+          <!-- Flechas de Longitud (Este/Oeste) desde Greenwich -->
+          <line x1="320" y1="150" x2="255" y2="150" stroke="#2563EB" stroke-width="2.5" marker-end="url(#arrow-lon)" />
+          <line x1="320" y1="150" x2="385" y2="150" stroke="#2563EB" stroke-width="2.5" marker-end="url(#arrow-lon)" />
+          
+          <!-- Textos de Coordenadas Principales -->
+          <text x="488" y="225" font-size="15" font-weight="800" fill="#047857" text-anchor="start">Ecuador 0°</text>
+          <text x="320" y="410" font-size="15" font-weight="800" fill="#1D4ED8" text-anchor="middle">Meridiano de Greenwich 0°</text>
+          
+          <!-- Referencias (Grados máximos) -->
+          <text x="320" y="50" font-size="14" font-weight="800" fill="#047857" text-anchor="middle">90° N</text>
+          <text x="320" y="398" font-size="14" font-weight="800" fill="#047857" text-anchor="middle">90° S</text>
+          <text x="152" y="225" font-size="14" font-weight="800" fill="#1D4ED8" text-anchor="end">180° O</text>
+          <text x="488" y="200" font-size="14" font-weight="800" fill="#1D4ED8" text-anchor="start">180° E</text>
+          
+          <!-- Cajas Explicativas: Latitud -->
+          <g transform="translate(15, 175)">
+            <rect width="170" height="78" rx="8" fill="#ECFDF5" stroke="#A7F3D0" />
+            <text x="85" y="24" text-anchor="middle" font-size="15" font-weight="800" fill="#065F46">Latitud:</text>
+            <text x="85" y="42" text-anchor="middle" font-size="13" font-weight="500" fill="#065F46">se mide desde el</text>
+            <text x="85" y="58" text-anchor="middle" font-size="13" font-weight="500" fill="#065F46">ecuador hacia el</text>
+            <text x="85" y="74" text-anchor="middle" font-size="13" font-weight="500" fill="#065F46">norte o hacia el sur</text>
+          </g>
+
+          <!-- Cajas Explicativas: Longitud -->
+          <g transform="translate(440, 75)">
+            <rect width="190" height="78" rx="8" fill="#EFF6FF" stroke="#BFDBFE" />
+            <text x="95" y="24" text-anchor="middle" font-size="15" font-weight="800" fill="#1E3A8A">Longitud:</text>
+            <text x="95" y="42" text-anchor="middle" font-size="13" font-weight="500" fill="#1E40AF">se mide desde el meridiano</text>
+            <text x="95" y="58" text-anchor="middle" font-size="13" font-weight="500" fill="#1E40AF">de Greenwich hacia el</text>
+            <text x="95" y="74" text-anchor="middle" font-size="13" font-weight="500" fill="#1E40AF">este o hacia el oeste</text>
+          </g>
+
         </svg>
       </div>
     </section>`;
