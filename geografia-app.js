@@ -240,23 +240,6 @@
   }
 
   function renderCoordinatesPoint(spec) {
-    const width = 360;
-    const height = 300;
-    const padding = { top: 24, right: 30, bottom: 36, left: 48 };
-    const plotWidth = width - padding.left - padding.right;
-    const plotHeight = height - padding.top - padding.bottom;
-    const xTicks = spec.xTicks || [-30, -20, -10, 0, 10, 20, 30];
-    const yTicks = spec.yTicks || [-30, -20, -10, 0, 10, 20, 30];
-    const xMin = Math.min(...xTicks);
-    const xMax = Math.max(...xTicks);
-    const yMin = Math.min(...yTicks);
-    const yMax = Math.max(...yTicks);
-
-    const scaleX = (value) => padding.left + ((value - xMin) / (xMax - xMin || 1)) * plotWidth;
-    const scaleY = (value) => padding.top + plotHeight - ((value - yMin) / (yMax - yMin || 1)) * plotHeight;
-    const pointX = scaleX(spec.point.x);
-    const pointY = scaleY(spec.point.y);
-
     return `<section class="visual-support">
       <div class="visual-head">
         <div>
@@ -265,24 +248,8 @@
         </div>
         <span class="visual-badge">Coordenadas</span>
       </div>
-      <div class="map-grid-wrap">
-        <svg viewBox="0 0 ${width} ${height}" role="img" aria-label="${esc(spec.title)}">
-          <rect x="0" y="0" width="${width}" height="${height}" rx="28" fill="rgba(255,255,255,0.98)"/>
-          ${yTicks.map((tick) => `<line x1="${padding.left}" y1="${scaleY(tick)}" x2="${width - padding.right}" y2="${scaleY(tick)}" class="geo-grid"/>`).join('')}
-          ${xTicks.map((tick) => `<line x1="${scaleX(tick)}" y1="${padding.top}" x2="${scaleX(tick)}" y2="${height - padding.bottom}" class="geo-grid"/>`).join('')}
-          <line x1="${padding.left}" y1="${scaleY(0)}" x2="${width - padding.right}" y2="${scaleY(0)}" class="geo-axis"/>
-          <line x1="${scaleX(0)}" y1="${padding.top}" x2="${scaleX(0)}" y2="${height - padding.bottom}" class="geo-axis"/>
-          ${xTicks.map((tick) => `<text x="${scaleX(tick)}" y="${height - 12}" text-anchor="middle" class="geo-tick">${esc(coordinateLabel(tick, 'x'))}</text>`).join('')}
-          ${yTicks.map((tick) => `<text x="${padding.left - 10}" y="${scaleY(tick) + 4}" text-anchor="end" class="geo-tick">${esc(coordinateLabel(tick, 'y'))}</text>`).join('')}
-          <text x="${width / 2}" y="${scaleY(0) - 8}" text-anchor="middle" class="geo-label">Ecuador</text>
-          <text x="${scaleX(0) + 12}" y="${padding.top - 6}" class="geo-label">Meridiano 0°</text>
-          <circle cx="${pointX}" cy="${pointY}" r="7" class="geo-point"/>
-          <text x="${pointX + 12}" y="${pointY - 10}" class="geo-point-label">${esc(spec.pointLabel)}</text>
-          <text x="${width - 18}" y="${scaleY(0) - 10}" class="geo-dir">E</text>
-          <text x="${padding.left - 20}" y="${scaleY(0) - 10}" class="geo-dir">O</text>
-          <text x="${scaleX(0) + 12}" y="${padding.top + 12}" class="geo-dir">N</text>
-          <text x="${scaleX(0) + 12}" y="${height - padding.bottom + 18}" class="geo-dir">S</text>
-        </svg>
+      <div class="map-grid-wrap" style="padding: 12px; background: rgba(255,255,255,0.98); border-radius: 28px;">
+        <img src="mapa_reactivo_94.svg" alt="${esc(spec.title)}" style="width: 100%; border-radius: 16px; display: block;" />
       </div>
     </section>`;
   }
