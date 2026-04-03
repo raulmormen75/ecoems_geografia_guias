@@ -485,14 +485,17 @@
       if (state.status !== 'idle') return;
 
       state.selectedOption = option;
-      state.status = option === exercise.correctOption?.label ? 'correct' : 'wrong';
+      const solved = option === exercise.correctOption?.label;
+      state.status = solved ? 'correct' : 'wrong';
       render();
 
-      window.requestAnimationFrame(() => {
-        const cardNode = document.getElementById(`reactivo-${exerciseId}`);
-        const target = cardNode?.querySelector(state.status === 'correct' ? '.feedback-stack' : '.attempt-state');
-        target?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      });
+      if (solved) {
+        window.requestAnimationFrame(() => {
+          const cardNode = document.getElementById(`reactivo-${exerciseId}`);
+          const target = cardNode?.querySelector('.feedback-stack');
+          target?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+      }
       return;
     }
 
@@ -504,6 +507,12 @@
       state.status = 'idle';
       state.selectedOption = '';
       render();
+
+      window.requestAnimationFrame(() => {
+        const cardNode = document.getElementById(`reactivo-${exerciseId}`);
+        const promptNode = cardNode?.querySelector('.question-block');
+        promptNode?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
       return;
     }
 
